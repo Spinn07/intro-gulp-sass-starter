@@ -1,0 +1,14 @@
+{"version":3,"file":"../styles.6050fe37.css","sources":["styles.scss"],"sourcesContent":["$mainColor: blue;\n$secondaryColor: grey;\n.name {\n    font-size: 40px;\n}\nbody {\n  background-color: $mainColor;\n}\n\n.wrapper {\n  background-color: $secondaryColor;\n}\n.germs {\n  background-color: $secondaryColor;\n}\n"],"mappings":"AAEA,AAAA,KAAK,CAAC;EACF,SAAS,EAAE,IAAK,GACnB;;AACD,AAAA,IAAI,CAAC;EACH,gBAAgB,EANN,IAAI,GAOf;;AAED,AAAA,QAAQ,CAAC;EACP,gBAAgB,EATD,IAAI,GAUpB;;AACD,AAAA,MAAM,CAAC;EACL,gBAAgB,EAZD,IAAI,GAapB","names":[]}
+.name {
+  font-size: 40px; }
+
+body {
+  background-color: blue; }
+
+.wrapper {
+  background-color: grey; }
+
+.germs {
+  background-color: grey; }
+
+/*# sourceMappingURL=maps/styles.6050fe37.css.map */

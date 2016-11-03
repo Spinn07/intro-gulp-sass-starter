@@ -1,3 +1,15 @@
+$mainColor: blue;
+$secondaryColor: grey;
 .name {
-    font-size: 22px;
+    font-size: 40px;
+}
+body {
+  background-color: $mainColor;
+}
+
+.wrapper {
+  background-color: $secondaryColor;
+}
+.germs {
+  background-color: $secondaryColor;
 }
